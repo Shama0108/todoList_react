@@ -31,6 +31,7 @@ cd react-todo-list
 
 # Install dependencies
 npm install
+```
 
 ## Usuage 
 To run: npm start
@@ -41,5 +42,5 @@ To run: npm start
 - Delete tasks
 - Save tasks to local storage
 
-#Acknowledgment
+## Acknowledgment
 This project was created by following the tutorial from GreatStack YouTube Channel.
